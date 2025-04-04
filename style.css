@@ -1,0 +1,111 @@
+   body {
+      margin: 0;
+   }
+   
+   .container {
+      width: 100%;
+      height: 400px;
+      overflow: hidden;
+   }
+ 
+   .container img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+   h1 {
+      font-family: "Italiana", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      text-align: center;
+      font-size: 60px;
+      margin: 10px;
+   }
+
+   .info {
+      display: flex; /* Coloca os itens  lado a lado */
+      justify-content: space-between; /* Distribui os itens */
+      border-bottom: 1px solid black; /* Linha    abaixo */
+      padding-bottom: 5px; /* Espaço antes da   linha */
+      width: 90%; /* Faz ocupar a largura total */
+      margin: 0 auto;
+      font-family: "Poiret One", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 25px;
+    }
+
+   #ingredients {
+      background-color: #7ead80; /* Verde escuro bonito */
+      color: white; /* Deixa o texto branco para contraste */
+      padding: 20px; /* Dá um espaço interno para não ficar apertado */
+      border-radius: 10px; /* Borda arredondada para um visual mais bonito */
+      width: 70%; /* Define que ocupa 70% da tela */
+      margin: 20px auto; /* Centraliza horizontalmente e dá um espaço em cima/baixo */
+      padding: 50px;
+      border-radius: 10px;
+      font-family: "Poiret One", sans-serif;
+    }
+    
+   #ingredients h2 {
+      text-align: justify; /* Centraliza o título "Ingredientes" */
+      text-transform: uppercase; /* Deixa em maiúsculas para destacar */
+      font-family: "Poiret One", sans-serif;
+      font-weight: 400;
+      font-size: 30px;
+   }
+    
+   #ingredients ul {
+      padding: 0;
+      margin: 0;
+      font-family: "Poiret One", sans-serif;
+   }
+    
+   #ingredients li {
+      padding: 5px 0; /* Dá um espaço entre os itens da lista */
+      margin: 0px 0;
+      font-size: 15px; /* Aumenta o tamanho do texto */
+      text-align: left;
+   }
+
+   #ingredients h3 {
+      text-align: justify; /* Centraliza o título "Ingredientes" */
+      font-family: "Poiret One", sans-serif;
+      text-decoration: 1px underline;
+      text-underline-offset: 6px;
+      font-size: 20px;
+   }
+   
+   .recipe {
+      display: flex;  
+      justify-content: space-between; /* Distribui os blocos lado a lado */
+      align-items: flex-start; /* Alinha os blocos no topo */
+      width: 90%; /* Define a largura total ocupada na tela */
+      margin: 20px auto; /* Centraliza horizontalmente */
+      gap: 20px; /* Espaço entre as seções */
+   }
+
+   #preparation h2 {
+      padding-left: 20px;
+      padding-top: 70px;
+      padding-bottom: 5px;
+      text-transform: uppercase; /* Deixa em maiúsculas para destacar */
+      font-family: "Poiret One", sans-serif;
+      font-weight: 400;
+      font-size: 30px;
+   }
+
+
+   #preparation p {      
+      padding: 20px;
+      margin-top: 0;
+      padding-top: 0;
+      font-family: "Poiret One", sans-serif;
+      text-align: justify;
+      font-weight: 400;
+      font-size: 20px;
+    }
+      
+
