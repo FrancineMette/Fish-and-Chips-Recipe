@@ -1,4 +1,4 @@
-   body {
+   * {
       margin: 0;
    }
    
@@ -159,6 +159,17 @@
       max-width: 100%;
       height: auto;
       border-radius: 20px;
+   }
+
+   footer {
+      background-color: #7ead80;
+      text-align: center;
+      color: #ffffff;
+      padding: 50px;
+   }
+
+   footer img {
+      vertical-align: middle;
    }
    
    
