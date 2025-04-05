@@ -19,7 +19,6 @@ Esta é uma **página de receitas** para o clássico **Fish and Chips**. Constru
 
 - **HTML5** → Page structure | Estruturação da página  
 - **CSS3** → Styling and responsiveness | Estilização e responsividade  
-- **JavaScript (optional)** → Dynamic functionalities | Funcionalidades dinâmicas  
 - **Google Fonts** → Custom fonts | Fontes personalizadas  
 - **Git & GitHub** → Version control and hosting | Controle de versão e hospedagem  
 
