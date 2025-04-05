@@ -10,8 +10,8 @@ Esta é uma **página de receitas** para o clássico **Fish and Chips**. Constru
 
 ## 🚀 Live Demo | Demonstração
 
-🔗 [Check the live version here!](#) *(Add GitHub Pages or deployment link if available!)*  
-🔗 [Veja o projeto rodando aqui!](#) *(Adicione o link do GitHub Pages ou do deploy, se disponível!)*  
+🔗 [Check the live version here!](https://francinemette.github.io/Fish-and-Chips-Recipe/) 
+🔗 [Veja o projeto rodando aqui!](https://francinemette.github.io/Fish-and-Chips-Recipe/) 
 
 ---
 
