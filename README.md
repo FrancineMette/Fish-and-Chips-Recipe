@@ -24,4 +24,4 @@ Esta é uma **página de receitas** para o clássico **Fish and Chips**. Constru
 
 ---
 
-![Fish and Chips](assets/fish-and-chips.png)
+![Fish and Chips](assets/fish-and-chips.jpg)
